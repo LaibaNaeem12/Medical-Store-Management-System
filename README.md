@@ -88,7 +88,7 @@ Compile main.cpp
 Run the program
 
 
-🎯 Future Improvements
+## 🎯 Future Improvements
 GUI version (Qt / SFML)
 Database integration (MySQL / SQLite)
 Online pharmacy system
@@ -96,12 +96,12 @@ Advanced reporting system
 Secure authentication system
 
 
-👩‍💻 Developer
+## 👩‍💻 Developer
 Laiba Naeem
 Programming Fundamentals Semester Project
 Data Science Student
 
-⭐ Project Purpose
+## ⭐ Project Purpose
 
 This project demonstrates:
 
